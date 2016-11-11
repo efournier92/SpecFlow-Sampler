@@ -1,64 +1,11 @@
-2016/11/11-11:10:34.423 11f0 Delete type=3 #1
-2016/11/11-11:10:35.409 2b24 Level-0 table #5: started
-2016/11/11-11:10:35.444 2b24 Level-0 table #5: 3816075 bytes OK
-2016/11/11-11:10:35.448 2b24 Delete type=0 #3
-2016/11/11-11:10:35.464 2b24 Level-0 table #7: started
-2016/11/11-11:10:35.491 2b24 Level-0 table #7: 3927426 bytes OK
-2016/11/11-11:10:35.492 2b24 Delete type=0 #4
-2016/11/11-11:10:35.554 2b24 Level-0 table #9: started
-2016/11/11-11:10:35.581 2b24 Level-0 table #9: 4080286 bytes OK
-2016/11/11-11:10:35.582 2b24 Delete type=0 #6
-2016/11/11-11:10:36.242 2b24 Level-0 table #11: started
-2016/11/11-11:10:36.268 2b24 Level-0 table #11: 4193703 bytes OK
-2016/11/11-11:10:36.269 2b24 Delete type=0 #8
-2016/11/11-11:10:36.422 2b24 Level-0 table #13: started
-2016/11/11-11:10:36.447 2b24 Level-0 table #13: 3957280 bytes OK
-2016/11/11-11:10:36.448 2b24 Delete type=0 #10
-2016/11/11-11:10:37.785 2b24 Level-0 table #15: started
-2016/11/11-11:10:37.814 2b24 Level-0 table #15: 5156148 bytes OK
-2016/11/11-11:10:37.816 2b24 Delete type=0 #12
-2016/11/11-11:10:37.816 2b24 Compacting 4@0 + 1@1 files
-2016/11/11-11:10:37.836 2b24 Generated table #16: 5355 keys, 2157728 bytes
-2016/11/11-11:10:37.853 2b24 Generated table #17: 5126 keys, 2155864 bytes
-2016/11/11-11:10:37.871 2b24 Generated table #18: 3919 keys, 2175561 bytes
-2016/11/11-11:10:37.890 2b24 Generated table #19: 2747 keys, 2178140 bytes
-2016/11/11-11:10:37.910 2b24 Generated table #20: 3359 keys, 2164104 bytes
-2016/11/11-11:10:37.926 2b24 Generated table #21: 2957 keys, 2163150 bytes
-2016/11/11-11:10:37.942 2b24 Generated table #22: 3143 keys, 2165623 bytes
-2016/11/11-11:10:37.959 2b24 Generated table #23: 2654 keys, 2181593 bytes
-2016/11/11-11:10:37.977 2b24 Generated table #24: 2536 keys, 2197233 bytes
-2016/11/11-11:10:37.988 2b24 Generated table #25: 192 keys, 1743074 bytes
-2016/11/11-11:10:37.988 2b24 Compacted 4@0 + 1@1 files => 21282070 bytes
-2016/11/11-11:10:37.989 2b24 Delete type=2 #7
-2016/11/11-11:10:37.990 2b24 Delete type=2 #9
-2016/11/11-11:10:37.991 2b24 Delete type=2 #11
-2016/11/11-11:10:37.992 2b24 Delete type=2 #13
-2016/11/11-11:10:37.992 2b24 Delete type=2 #15
-2016/11/11-11:10:37.993 2b24 compacted to: files[ 0 10 1 0 0 0 0 ]
-2016/11/11-11:10:37.993 2b24 Expanding@1 1+1 to 10+1
-2016/11/11-11:10:37.993 2b24 Compacting 10@1 + 1@2 files
-2016/11/11-11:10:38.010 2b24 Generated table #26: 4691 keys, 2166536 bytes
-2016/11/11-11:10:38.027 2b24 Generated table #27: 5102 keys, 2162287 bytes
-2016/11/11-11:10:38.046 2b24 Generated table #28: 5008 keys, 2156081 bytes
-2016/11/11-11:10:38.061 2b24 Generated table #29: 2860 keys, 2177242 bytes
-2016/11/11-11:10:38.077 2b24 Generated table #30: 3604 keys, 2168243 bytes
-2016/11/11-11:10:38.092 2b24 Generated table #31: 2886 keys, 2178523 bytes
-2016/11/11-11:10:38.108 2b24 Generated table #32: 3126 keys, 2159358 bytes
-2016/11/11-11:10:38.124 2b24 Generated table #33: 3176 keys, 2168913 bytes
-2016/11/11-11:10:38.141 2b24 Generated table #34: 2943 keys, 2163293 bytes
-2016/11/11-11:10:38.161 2b24 Generated table #35: 2697 keys, 2179999 bytes
-2016/11/11-11:10:38.182 2b24 Generated table #36: 1861 keys, 3401629 bytes
-2016/11/11-11:10:38.184 2b24 Generated table #37: 36 keys, 1710 bytes
-2016/11/11-11:10:38.184 2b24 Compacted 10@1 + 1@2 files => 25083814 bytes
-2016/11/11-11:10:38.185 2b24 Delete type=2 #5
-2016/11/11-11:10:38.186 2b24 Delete type=2 #16
-2016/11/11-11:10:38.186 2b24 Delete type=2 #17
-2016/11/11-11:10:38.187 2b24 Delete type=2 #18
-2016/11/11-11:10:38.187 2b24 Delete type=2 #19
-2016/11/11-11:10:38.188 2b24 Delete type=2 #20
-2016/11/11-11:10:38.188 2b24 Delete type=2 #21
-2016/11/11-11:10:38.189 2b24 Delete type=2 #22
-2016/11/11-11:10:38.189 2b24 Delete type=2 #23
-2016/11/11-11:10:38.190 2b24 Delete type=2 #24
-2016/11/11-11:10:38.190 2b24 Delete type=2 #25
-2016/11/11-11:10:38.190 2b24 compacted to: files[ 0 0 12 0 0 0 0 ]
+2016/11/11-11:20:39.104 3088 Recovering log #14
+2016/11/11-11:20:39.105 3088 Level-0 table #39: started
+2016/11/11-11:20:39.109 3088 Level-0 table #39: 317585 bytes OK
+2016/11/11-11:20:39.114 3088 Delete type=0 #14
+2016/11/11-11:20:39.114 3088 Delete type=3 #2
+2016/11/11-11:20:42.620 27d0 Compacting 1@0 + 0@1 files
+2016/11/11-11:20:42.622 27d0 Generated table #41: 1 keys, 443 bytes
+2016/11/11-11:20:42.624 27d0 Generated table #42: 217 keys, 31877 bytes
+2016/11/11-11:20:42.624 27d0 Compacted 1@0 + 0@1 files => 32320 bytes
+2016/11/11-11:20:42.625 27d0 Delete type=2 #39
+2016/11/11-11:20:42.625 27d0 compacted to: files[ 0 2 12 0 0 0 0 ]
